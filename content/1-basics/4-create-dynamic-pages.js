@@ -101,7 +101,7 @@ What's the URL of that page?
       answers: [
         'It\'ll work as expected.',
         'It\'ll render nothing.',
-        'It\'ll rendered only the header.',
+        'It\'ll render only the header.',
         'It throws an error'
       ],
       correctAnswer: 'It throws an error',
